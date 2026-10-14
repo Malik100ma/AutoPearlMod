@@ -1,0 +1,10 @@
+{
+  "key.category.autopearl.main": "AutoPearl",
+  "key.autopearl.throw": "Кинути перлину Енду",
+  "key.autopearl.settings": "Відкрити налаштування AutoPearl",
+  "autopearl.settings.title": "Налаштування AutoPearl",
+  "autopearl.settings.key": "Клавіша перлини Енду: %s",
+  "autopearl.settings.reset": "Скинути за замовчуванням",
+  "autopearl.settings.hint": "Натисніть на кнопку, потім натисніть клавішу або кнопку миші",
+  "modmenu.descriptionTranslation.autopearl": "Кидайте перлину Енду з хотбара однією клавішею та миттєво повертайтеся на попередній слот."
+}

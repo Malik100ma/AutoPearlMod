@@ -1,0 +1,10 @@
+{
+  "key.category.autopearl.main": "AutoPearl",
+  "key.autopearl.throw": "Бросить эндер-жемчуг",
+  "key.autopearl.settings": "Открыть настройки AutoPearl",
+  "autopearl.settings.title": "Настройки AutoPearl",
+  "autopearl.settings.key": "Клавиша эндер-жемчуга: %s",
+  "autopearl.settings.reset": "Сбросить по умолчанию",
+  "autopearl.settings.hint": "Нажмите на кнопку, затем нажмите клавишу или кнопку мыши",
+  "modmenu.descriptionTranslation.autopearl": "Бросайте эндер-жемчуг из хотбара одной клавишей и мгновенно возвращайтесь на прежний слот."
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "autopearl",
+  "version": "${version}",
+  "name": "AutoPearl",
+  "description": "Throw an ender pearl from your hotbar with a single key press and instantly return to your previous slot.",
+  "authors": ["Malik100ma"],
+  "license": "MIT",
+  "icon": "assets/autopearl/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.autopearl.AutoPearlClient"],
+    "modmenu": ["com.autopearl.AutoPearlModMenu"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}

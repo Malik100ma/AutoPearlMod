@@ -1,0 +1,10 @@
+{
+  "key.category.autopearl.main": "AutoPearl",
+  "key.autopearl.throw": "Throw Ender Pearl",
+  "key.autopearl.settings": "Open AutoPearl Settings",
+  "autopearl.settings.title": "AutoPearl Settings",
+  "autopearl.settings.key": "Ender Pearl Key: %s",
+  "autopearl.settings.reset": "Reset to Default",
+  "autopearl.settings.hint": "Click the button, then press a key or mouse button",
+  "modmenu.descriptionTranslation.autopearl": "Throw an ender pearl from your hotbar with a single key press and instantly return to your previous slot."
+}
